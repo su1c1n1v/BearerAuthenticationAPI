@@ -2,7 +2,7 @@
 ### The project has the goal to build an authenctication to access a API.
 ---
 #### The goals
-- [x] build an authenctication API in .NET;
+- build an authenctication API in .NET;
 ---
 #### The technologies
 - .NET Core;
